@@ -1,0 +1,35 @@
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: coral;
+}
+
+h3 {
+    color: aqua;
+}
+
+h4 {
+    color: darkgoldenrod;
+}
+
+h5 {
+    color: blueviolet;
+}
+
+h6 {
+    color: crimson;
+}
+
+p {
+    color: navy;
+}
+
+.para-2 {
+    color: green;
+}
+
+#para3 {
+    color: orange;
+}
